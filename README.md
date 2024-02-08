@@ -24,7 +24,7 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/POWERBI-FCD535?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonwhitney&label=Visistas%20perfil&color=0e75b6&style=flat" alt="jeffersonwhitney" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonwhitney&label=Visitas%20perfil&color=0e75b6&style=flat" alt="jeffersonwhitney" /> </p>
 
 
 
