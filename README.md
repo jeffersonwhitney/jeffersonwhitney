@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mendonca11)
 
 <div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
+  <a href="https://github.com/jeffersonwhitney">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonwhitney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
   </center>
