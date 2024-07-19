@@ -19,11 +19,12 @@ Links abaixo para me conhecer melhor:
 ## Tecnologias que tenho experiência
 
 <div style="display: inline_block"><br/>
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="center" alt="Postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitelogoColor=white"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/POWERBI-FCD535?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img align="center" alt="PowerBI" src="https://img.shields.io/badge/POWERBI-FCD535?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonwhitney&label=Visitas%20perfil&color=0e75b6&style=flat" alt="jeffersonwhitney" /> </p>
