@@ -6,11 +6,17 @@ Links abaixo para me conhecer melhor:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-whitney-5a2176195/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mendonca11)
 
-<div>
-  <a href="https://github.com/jeffersonwhitney">
-<center>
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
-</center>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonwhitney&theme=tokyonight" alt="GitHub Streak" width="100%">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Tecnologias que tenho experiência
