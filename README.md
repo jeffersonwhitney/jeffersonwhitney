@@ -8,12 +8,9 @@ Links abaixo para me conhecer melhor:
 
 <div>
   <a href="https://github.com/jeffersonwhitney">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonwhitney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonwhitney&layout=compact&langs_count=7&theme=tokyonight"/> 
-  </center>
+<center>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+</center>
 </div>
 
 ## Tecnologias que tenho experiência
