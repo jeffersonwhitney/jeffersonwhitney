@@ -7,16 +7,7 @@ Links abaixo para me conhecer melhor:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mendonca11)
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffersonwhitney&theme=tokyonight" alt="GitHub Streak" width="100%">
-      </td>
-    </tr>
-  </table>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="600">
 </div>
 
 ## Tecnologias que tenho experiência
